@@ -1,6 +1,6 @@
 #HTML and CSS
 
-This was a terrible try to remake my figma prototype
+This was a terrible try to remake my figma prototype. I spendt to much time figuring how the design rather than coding the site
 
 Issues:
 
