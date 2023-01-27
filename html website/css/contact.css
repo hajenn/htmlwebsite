@@ -1,0 +1,169 @@
+#column-2 {
+
+  width:394px;
+  height:66px;
+  font-size:1em;
+}
+#column-one {
+
+  width:823px;
+  height:66px;
+  font-size:1em;
+
+}
+.contact {
+  align-items: flex-start;
+  background-color: var(--comet);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.contact .overlap-group {
+  align-items: center;
+  background-color: var(--bali-hai);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 160px;
+  min-width: 1920px;
+  padding: 23px 31px;
+}
+
+.contact .bilde-10 {
+  align-self: flex-start;
+  height: 111px;
+  object-fit: cover;
+  width: 178px;
+}
+
+.contact .place {
+  cursor: pointer;
+  margin-bottom: 5.0px;
+  margin-left: 27px;
+  min-height: 39px;
+  min-width: 85px;
+}
+
+.contact .games {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 5.0px;
+  margin-left: 27px;
+  min-height: 39px;
+  min-width: 101px;
+}
+
+.contact .about {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 5.0px;
+  margin-left: 27px;
+  min-height: 39px;
+  min-width: 88px;
+}
+
+.contact .place-1 {
+  margin-bottom: 5.0px;
+  margin-left: 27px;
+  min-height: 39px;
+  min-width: 115px;
+}
+
+.contact .icon-cart {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 109px;
+  margin-left: 1064px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 111px;
+}
+
+.contact .overlap-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 21px;
+  min-width: 1920px;
+}
+
+.contact .black-image-overlap {
+  height: 774px;
+  object-fit: cover;
+  width: 974px;
+}
+
+.contact .overlap-group1 {
+  align-items: flex-start;
+  background-color: #596281;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 774px;
+  padding: 103px 35px;
+  width: 925px;
+}
+
+.contact .flex-row {
+  align-items: flex-end;
+  display: flex;
+  gap: 35px;
+  height: 163px;
+  min-width: 823px;
+}
+
+.contact .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  min-height: 163px;
+  width: 394px;
+}
+
+.contact .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 48px;
+}
+
+.contact .rectangle {
+  width: 394px;
+}
+
+.contact .rectangle-2 {
+  width: 823px;
+}
+
+.contact .overlap-group2 {
+  align-items: flex-start;
+  background-color: #459a44;
+  display: flex;
+  height: 74px;
+  min-width: 199px;
+  padding: 12px 53px;
+}
+
+.contact .place-2 {
+  min-height: 48px;
+}
+
+.contact .footer-home-box {
+  background-color: var(--bali-hai);
+  height: 146px;
+  width: 1920px;
+}
+
+.contact .place-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contact .rectangle-1 {
+  background-color: var(--alto);
+  height: 66px;
+}

@@ -1,0 +1,186 @@
+
+.thank-you {
+  align-items: flex-start;
+  background-color: var(--comet);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.thank-you .overlap-group1 {
+  align-items: center;
+  background-color: var(--bali-hai);
+  display: flex;
+  height: 160px;
+  min-width: 1920px;
+  padding: 24px 32px;
+}
+
+.thank-you .bilde-10 {
+  align-self: flex-start;
+  height: 111px;
+  object-fit: cover;
+  width: 178px;
+}
+
+.thank-you .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 27px;
+  min-height: 39px;
+  min-width: 85px;
+}
+
+.thank-you .games {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 27px;
+  min-height: 39px;
+  min-width: 101px;
+}
+
+.thank-you .about {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 27px;
+  min-height: 39px;
+  min-width: 88px;
+}
+
+.thank-you .place-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 27px;
+  min-height: 39px;
+  min-width: 115px;
+}
+
+.thank-you .icon-cart {
+  cursor: pointer;
+  height: 109px;
+  margin-bottom: 1.0px;
+  margin-left: 1064px;
+  object-fit: cover;
+  width: 111px;
+}
+
+.thank-you .overlap-group {
+  height: 774px;
+  margin-left: 1px;
+  position: relative;
+  width: 1920px;
+}
+
+.thank-you .elven-lords {
+  left: 1345px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 83px;
+}
+
+.thank-you .elven-lords-1 {
+  top: 258px;
+}
+
+.thank-you .elven-lords-2 {
+  top: 423px;
+}
+
+.thank-you .rectangle-2 {
+  height: 110px;
+  left: 1176px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 129px;
+}
+
+.thank-you .price {
+  left: 1737px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 90px;
+}
+
+.thank-you .price-1 {
+  top: 251px;
+}
+
+.thank-you .price-2 {
+  top: 432px;
+}
+
+.thank-you .total-1641-kr {
+  left: 1660px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 645px;
+}
+
+.thank-you .title {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  left: 306px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+}
+
+.thank-you .span-1 {
+  color: var(--black);
+}
+
+.thank-you .span {
+  color: #b71e09;
+}
+
+.thank-you .rectangle {
+  height: 548px;
+  left: 203px;
+  position: absolute;
+  top: 226px;
+  width: 776px;
+}
+
+.thank-you .order-number-5248294 {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 387px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 200px;
+}
+
+.thank-you .footer-home-box {
+  background-color: var(--bali-hai);
+  height: 146px;
+  width: 1920px;
+}
+
+.thank-you .elven-lords-3 {
+  left: 1345px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}

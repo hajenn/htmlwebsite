@@ -1,0 +1,125 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400,500");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-start {
+  align-self: flex-start;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.checkout-page-right {
+  background-color: #4b5060;
+  height: 774px;
+  left: 930px;
+  position: absolute;
+  top: 0;
+  width: 989px;
+}
+
+.rectangle-5 {
+  background-color: var(--dove-gray);
+  border: 1px solid;
+  border-color: var(--emperor);
+  height: 142px;
+  left: 1136px;
+  position: absolute;
+  top: 44px;
+  width: 783px;
+}
+
+.rectangle-6 {
+  background-color: var(--dove-gray);
+  border: 1px solid;
+  border-color: var(--emperor);
+  height: 142px;
+  left: 1136px;
+  position: absolute;
+  top: 215px;
+  width: 783px;
+}
+
+.rectangle-7 {
+  background-color: var(--dove-gray);
+  border: 1px solid;
+  border-color: var(--emperor);
+  height: 142px;
+  left: 1137px;
+  position: absolute;
+  top: 384px;
+  width: 783px;
+}
+
+.rectangle-8 {
+  background-color: var(--dove-gray);
+  border: 1px solid;
+  border-color: var(--emperor);
+  height: 142px;
+  left: 1136px;
+  position: absolute;
+  top: 595px;
+  width: 783px;
+}
+
+.checkout-page-right-1 {
+  background-color: #c7c7c7;
+  height: 774px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1137px;
+}
+
+.rectangle-3 {
+  height: 110px;
+  left: 1176px;
+  object-fit: cover;
+  position: absolute;
+  top: 236px;
+  width: 129px;
+}
+
+.rectangle-4 {
+  height: 110px;
+  left: 1176px;
+  object-fit: cover;
+  position: absolute;
+  top: 400px;
+  width: 129px;
+}
+
+.vat-25 {
+  left: 1487px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 645px;
+}
+
+.price-3 {
+  left: 1737px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}

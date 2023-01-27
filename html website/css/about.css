@@ -1,0 +1,123 @@
+
+
+.about {
+  align-items: flex-start;
+  background-color: var(--comet);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.about .overlap-group {
+  align-items: center;
+  background-color: var(--bali-hai);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 160px;
+  min-width: 1920px;
+  padding: 23px 31px;
+}
+
+.about .bilde-10 {
+  align-self: flex-start;
+  height: 111px;
+  object-fit: cover;
+  width: 178px;
+}
+
+.about .place {
+  min-width: 85px;
+}
+
+.about .games {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 5.0px;
+  margin-left: 27px;
+  min-height: 39px;
+  min-width: 101px;
+}
+
+.about .about-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 5.0px;
+  margin-left: 27px;
+  min-height: 39px;
+  min-width: 88px;
+}
+
+.about .place-1 {
+  min-width: 115px;
+}
+
+.about .icon-cart {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 109px;
+  margin-left: 1064px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 111px;
+}
+
+.about .overlap-container {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+
+.about .black-image-overlap {
+  height: 774px;
+  width: 995px;
+  filter:grayscale(100%);
+}
+
+
+
+.about .overlap-group1 {
+  align-items: center;
+  background-color: #596281;
+  display: flex;
+  flex-direction: column;
+  gap: 62px;
+  min-height: 774px;
+  padding: 91px 0;
+  width: 925px;
+}
+
+.about .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 48px;
+  min-width: 165px;
+}
+
+.about .some-text {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size:20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin:5px 25px 5px 25px;
+}
+
+.about .footer-home-box {
+  background-color: var(--bali-hai);
+  height: 146px;
+  width: 1920px;
+}
+
+.about .place-2 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 5.0px;
+  margin-left: 27px;
+  min-height: 39px;
+}

@@ -1,0 +1,259 @@
+/* screen - games */
+
+.games {
+  align-items: flex-start;
+  background-color: var(--comet);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1808px;
+  width: 1920px;
+}
+
+.games .overlap-group-2 {
+  height: 160px;
+  position: relative;
+  width: 1920px;
+}
+
+.games .top-navbar-box {
+  background-color: var(--bali-hai);
+  border: 1px solid;
+  border-color: var(--black);
+  cursor: pointer;
+  height: 160px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.games .bilde-10 {
+  height: 111px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 178px;
+}
+
+.games .place {
+  left: 237px;
+}
+
+.games .games-1 {
+  left: 349px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+}
+
+.games .about {
+  cursor: pointer;
+  left: 477px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+}
+
+.games .place-1 {
+  left: 592px;
+}
+
+.games .icon-cart {
+  cursor: pointer;
+  height: 109px;
+  left: 1753px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.games .overlap-group1 {
+  background-color: #495a74;
+  flex-direction: column;
+  gap: 71px;
+  min-height: 1465px;
+  padding: 69px 210px;
+  width: 1920px;
+}
+
+.games .we-currently-have-6 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  min-height: 44px;
+  min-width: 835px;
+}
+
+.games .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 58px;
+  height: 1196px;
+  min-width: 1496px;
+}
+
+.games .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 108px;
+  min-height: 1196px;
+  width: 460px;
+}
+
+.games .overlap-group {
+  background-color: var(--alto);
+  flex-direction: column;
+  min-height: 544px;
+  width: 460px;
+}
+
+.games .game-image-frame {
+  height: 258px;
+  width: 460px;
+}
+
+.games .race-until-death {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 30px;
+  margin-top: 23px;
+  min-height: 39px;
+}
+
+.games .overlap-group8 {
+  background-color: var(--quick-silver);
+  gap: 35px;
+  height: 80px;
+  margin-top: 109px;
+  min-width: 460px;
+  padding: 5px 30px;
+}
+
+.games .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--apple);
+  display: flex;
+  height: 69px;
+  min-width: 263px;
+  padding: 13px 48px;
+}
+
+.games .add-to-cart {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+}
+
+.games .price {
+  margin-bottom: 3.0px;
+}
+
+.games .overlap-group12 {
+  background-color: var(--quick-silver);
+  gap: 41px;
+  height: 80px;
+  justify-content: flex-end;
+  margin-top: 109px;
+  min-width: 460px;
+  padding: 5px 28px;
+}
+
+.games .cart-container {
+  position: relative;
+}
+
+.games .add-to-cart-1 {
+  cursor: pointer;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.games .cart-button {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.games .overlap-group10 {
+  background-color: var(--quick-silver);
+  gap: 35px;
+  height: 80px;
+  margin-top: 109px;
+  min-width: 460px;
+  padding: 5px 15px;
+}
+
+.games .price-1 {
+  margin-bottom: 1.0px;
+}
+
+.games .overlap-group13 {
+  background-color: var(--quick-silver);
+  gap: 41px;
+  height: 80px;
+  margin-top: 109px;
+  min-width: 460px;
+  padding: 5px 15px;
+}
+
+.games .overlap-group11 {
+  background-color: var(--quick-silver);
+  gap: 30px;
+  height: 80px;
+  margin-top: 109px;
+  min-width: 460px;
+  padding: 5px 16px;
+}
+
+.games .overlap-group14 {
+  background-color: var(--quick-silver);
+  gap: 36px;
+  height: 80px;
+  margin-top: 109px;
+  min-width: 460px;
+  padding: 5px 16px;
+}
+
+.games .footer-home-box {
+  background-color: var(--bali-hai);
+  height: 183px;
+  width: 1920px;
+}
+
+.games .cart {
+  background-color: var(--apple);
+  height: 69px;
+  width: 263px;
+}
+
+.games .overlap {
+  align-items: flex-start;
+  display: flex;
+}
+
+.games .place-2 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+}
+
+.games .price-2 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  min-width: 98px;
+}
